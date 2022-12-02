@@ -1,6 +1,6 @@
 package it.develhope.interfaces;
 
-public class Test {
+public class Test extends CollegePerson {
     public static void main(String[] args) {
 
         Student student = new Student("Lorenzo", "Balestrini", 123, 2);
